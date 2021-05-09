@@ -1,2 +1,2 @@
 # Network
-https://github.com/jekahamster/SimpleNeuralNetwork
+https://github.com/jekahamster/NeuroMath
